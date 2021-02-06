@@ -4,10 +4,10 @@ Efficient fish keybinding for fzf with git branch
 
 ## Install
 
-With [fisherman]
+With [fisher]
 
 ```
-fisher tsub/fish-fzf-git-recent-branch
+fisher install tsub/fish-fzf-git-recent-branch
 ```
 
 ## Usage
@@ -16,4 +16,4 @@ fisher tsub/fish-fzf-git-recent-branch
 fzf_git_recent_branch
 ```
 
-[fisherman]: https://github.com/fisherman/fisherman
+[fisher]: https://github.com/jorgebucaran/fisher
